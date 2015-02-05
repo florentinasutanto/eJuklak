@@ -70,7 +70,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ## 1.4 Pengelola Fakultas
 | Senat FTIS                                                                |
-|-----------------------------------------|-----------------------------------------|
+|-----------------------------------------------------------------------------------|
 | Ketua                                   |       Agus Sukmana, SSi, MSc            |
 | Sekretaris                              | Philips Nicolas Gunawidjaja, BSc, PhD   |
 | Dekanat                                                                        |
