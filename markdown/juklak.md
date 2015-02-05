@@ -296,6 +296,7 @@ Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untu
 ### 2.1 Matakuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
+
 1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
 2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
 3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
