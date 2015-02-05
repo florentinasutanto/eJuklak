@@ -69,7 +69,8 @@ Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
 ## 1.4 Pengelola Fakultas
-| Senat FTIS                               |                                 |
+| Senat FTIS                                                              |
+
 |-----------------------------------------|------------------------------------------|
 | Ketua                                   |       Agus Sukmana, SSi, MSc            |
 | Sekretaris                              | Philips Nicolas Gunawidjaja, BSc, PhD   |
