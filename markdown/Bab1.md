@@ -69,7 +69,7 @@ Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
 ## 1.4 Pengelola Fakultas
-|** Senat FTIS **                                                                |
+| Senat FTIS                                                                |
 |-----------------------------------------|-----------------------------------------|
 | Ketua                                   |       Agus Sukmana, SSi, MSc            |
 | Sekretaris                              | Philips Nicolas Gunawidjaja, BSc, PhD   |
@@ -78,18 +78,18 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 | WD I (Akademik)                         | Dr. Thomas Anung Basuki                 |
 | WD II (Keuangan dan Sumberdaya)         | Maria Anestasia, SSi, MSi               |
 | WD III (Kemahasiswaan dan Alumni)       | Dr.rer.nat. Cecilia E. Nugraheni, ST,MT |
-| ** Program Studi Matematika  **                                                   |
+|  Program Studi Matematika                                                    |
 | Ketua                                   | Dr. Ferry Jaya Permana                  |
 | Sekretaris                              | Livia Owen, S.Si., M.Si.                |
-| ** Program Studi Fisika **                                                        |
+|  Program Studi Fisika                                                         |
 | Ketua                                   | Philips Nicolas Gunawidjaja, BSc, PhD   |
 | Kepala Lab. Fisika Dasar                | Risti Suryantari, S.Si., M.Si.          |
 | Kepala Lab. Elektronika & Fisika Lanjut | Janto V. Sulungbudi, Drs.               |
-| ** Program Studi Teknik Informatika **                                            |
+|  Program Studi Teknik Informatika                                             |
 | Ketua                                   | Dr. Thomas Anung Basuki                 |
 | Sekretaris                              | Lionov, SKom, MSc.                      |
 | Kepala Lab. Komputasi                   | Chandra Wijaya, ST, MT.                 |
-| ** Tata Usaha**                                                                   |
+|  Tata Usaha                                                                   |
 | Kepala                                  | Pranyoto Teguh Imanto                   |
 | Kasubag Akademik                        | Petrus Purnomo                          |
 | Kasubag Keuangan & Kepegawaian          | Budi Santoso                            |
